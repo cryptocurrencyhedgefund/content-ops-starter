@@ -11,12 +11,12 @@ sections:
         self:
           textAlign: left
     subtitle: Learn all about them
-    text: >+
-      Crypto hedge funds are investment funds that focus on the cryptocurrency
-      market, using various strategies to generate returns for their investors.
-      These funds typically target high-risk, high-reward assets, aiming to take
-      advantage of the volatile nature of the crypto space. Here’s an overview
-      of what they are and how they operate:
+    text: >
+      Cryptocurrency hedge funds are investment funds that focus on the
+      cryptocurrency market, using various strategies to generate returns for
+      their investors. These funds typically target high-risk, high-reward
+      assets, aiming to take advantage of the volatile nature of the crypto
+      space. Here’s an overview of what they are and how they operate:
 
 
       ### 1. **What Is a Crypto Hedge Fund?**
@@ -223,7 +223,6 @@ sections:
       However, given the high-risk nature of digital assets, it's crucial to
       carefully consider the potential rewards against the risks before
       investing.
-
     actions: []
     media:
       type: VideoBlock
