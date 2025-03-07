@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Crypto Hedge Funds
 slug: /
 sections:
   - type: GenericSection
