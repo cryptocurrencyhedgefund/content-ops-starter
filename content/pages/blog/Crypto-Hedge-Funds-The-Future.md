@@ -15,7 +15,7 @@ featuredImage:
       borderRadius: medium
 seo:
   metaTitle: Crypto Hedge Funds the future
-  metaDescription: You can add the excerpt and main keywords of your blog post here.
+  metaDescription: how crypto hedge funds are the future
   socialImage: /images/abstract-feature3.svg
   type: Seo
 colors: bg-light-fg-dark
