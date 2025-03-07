@@ -3,13 +3,6 @@ title: Crypto Hedge Funds The Future
 slug: Crypto-Hedge-Funds-The-Future
 date: '2025-01-15'
 excerpt: ''
-featuredImage:
-  url: /images/abstract-feature3.svg
-  altText: Thumbnail
-  type: ImageBlock
-  styles:
-    self:
-      borderRadius: medium
 seo:
   metaTitle: Crypto Hedge Funds the future
   metaDescription: how crypto hedge funds are the future
