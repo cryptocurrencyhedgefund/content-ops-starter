@@ -1,5 +1,5 @@
 ---
-title: Crypto Hedge Funds
+title: Crypto Hedge Funds The Future
 slug: life-of-our-development-team
 date: '2025-01-15'
 excerpt: >-
