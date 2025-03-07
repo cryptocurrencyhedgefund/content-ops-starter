@@ -1,6 +1,6 @@
 ---
 title: Crypto Hedge Funds The Future
-slug: life-of-our-development-team
+slug: Crypto Hedge Funds The Future
 date: '2025-01-15'
 excerpt: >-
   Vel repellat dolores ut unde voluptatum ut optio voluptates est aliquid. Ut
