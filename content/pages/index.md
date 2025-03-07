@@ -9,9 +9,12 @@ sections:
       type: TitleBlock
     subtitle: Welcome To The Home Of Crypto Hedge Funds
     text: >
-      A Netlify Create website is a git repo that you own. Every code commit is
-      instantly reflected in the visual editor and since every visual edit is a
-      git commit, git workflows and collaboration just work.
+
+      Crypto hedge funds are investment funds that focus on the cryptocurrency
+      market, using various strategies to generate returns for their investors.
+      These funds typically target high-risk, high-reward assets, aiming to take
+      advantage of the volatile nature of the crypto space. Here’s an overview
+      of what they are and how they operate:
     actions:
       - label: Get started
         altText: ''
