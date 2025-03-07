@@ -264,7 +264,7 @@ sections:
     type: DividerSection
 seo:
   metaTitle: Crypto Hedge Funds
-  metaDescription: This demo site is built with Netlify Create.
+  metaDescription: Learn all about crypto hedge funds and the best in the world.
   socialImage: /images/main-hero.jpg
   type: Seo
 type: PageLayout
